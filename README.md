@@ -1,5 +1,6 @@
 # THREE.JS
 Work of Geometry 
+<<<<<<< HEAD
 If at some point you want to study linear algebra or any other math topic more deeply, 
 Khan Academy is one of the best resources on the web for learning mathematics, and their linear algebra course has everything you need to get through this book.
 Check out the How to Run Things Locally
@@ -10,3 +11,6 @@ How to run the software?
 First: npm install
 Second: npm start
  
+=======
+https://discoverthreejs.com/
+>>>>>>> 22de4b19029efc90c0605640e4f4d151b5a04d82
