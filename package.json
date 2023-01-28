@@ -1,0 +1,22 @@
+{
+  "name": "three.js",
+  "version": "1.0.0",
+  "description": "Three.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaissounealisouf/THREE.JS.git"
+  },
+  "author": "kaissoune",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaissounealisouf/THREE.JS/issues"
+  },
+  "homepage": "https://github.com/kaissounealisouf/THREE.JS#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
