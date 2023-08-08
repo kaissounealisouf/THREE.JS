@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kaissounealisouf/THREE.JS#readme",
   "dependencies": {
-    "live-server": "^1.2.2"
+    "live-server": "^1.2.2",
+    "three": "^0.132.2"
   }
 }
